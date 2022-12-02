@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 testing line
-=======
 untesting file
->>>>>>> a5bd0f4807acad0e69213503a034b463d50b24be
 commit test
 789
 2002
